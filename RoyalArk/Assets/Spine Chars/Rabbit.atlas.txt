@@ -1,0 +1,202 @@
+
+Rabbit.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bow_1
+  rotate: false
+  xy: 349, 8
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Bow_2
+  rotate: false
+  xy: 1448, 160
+  size: 87, 94
+  orig: 87, 94
+  offset: 0, 0
+  index: -1
+Bow_3
+  rotate: true
+  xy: 918, 3
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+ClosedEye_L
+  rotate: false
+  xy: 1385, 50
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+ClosedEye_L_2
+  rotate: false
+  xy: 503, 43
+  size: 89, 19
+  orig: 89, 19
+  offset: 0, 0
+  index: -1
+ClosedEye_R
+  rotate: false
+  xy: 1019, 8
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+ClosedEye_R_2
+  rotate: false
+  xy: 503, 24
+  size: 90, 17
+  orig: 90, 17
+  offset: 0, 0
+  index: -1
+Ear_L_1
+  rotate: false
+  xy: 962, 114
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+Ear_L_2
+  rotate: false
+  xy: 395, 9
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
+Ear_R
+  rotate: false
+  xy: 314, 57
+  size: 105, 197
+  orig: 105, 197
+  offset: 0, 0
+  index: -1
+Flower_1
+  rotate: true
+  xy: 421, 64
+  size: 190, 185
+  orig: 190, 185
+  offset: 0, 0
+  index: -1
+Flower_2
+  rotate: true
+  xy: 608, 78
+  size: 176, 156
+  orig: 176, 156
+  offset: 0, 0
+  index: -1
+Flower_3
+  rotate: true
+  xy: 1077, 130
+  size: 124, 121
+  orig: 124, 121
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 2
+  size: 310, 252
+  orig: 310, 252
+  offset: 0, 0
+  index: -1
+Leaf_1
+  rotate: true
+  xy: 1200, 133
+  size: 121, 64
+  orig: 121, 64
+  offset: 0, 0
+  index: -1
+Leaf_2
+  rotate: false
+  xy: 608, 3
+  size: 140, 73
+  orig: 140, 73
+  offset: 0, 0
+  index: -1
+Leaf_3
+  rotate: true
+  xy: 766, 83
+  size: 171, 91
+  orig: 171, 91
+  offset: 0, 0
+  index: -1
+Leaf_4
+  rotate: true
+  xy: 859, 93
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+Leaf_5
+  rotate: true
+  xy: 1120, 6
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 1485, 66
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 750, 6
+  size: 166, 70
+  orig: 166, 70
+  offset: 0, 0
+  index: -1
+OpenEye_L
+  rotate: false
+  xy: 1266, 138
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+OpenEye_L_2
+  rotate: false
+  xy: 1537, 176
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+OpenEye_L_3
+  rotate: true
+  xy: 1316, 34
+  size: 102, 67
+  orig: 102, 67
+  offset: 0, 0
+  index: -1
+OpenEye_R
+  rotate: false
+  xy: 1202, 12
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+OpenEye_R_2
+  rotate: false
+  xy: 1549, 96
+  size: 68, 78
+  orig: 68, 78
+  offset: 0, 0
+  index: -1
+OpenEye_R_3
+  rotate: true
+  xy: 1381, 152
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+Teeth
+  rotate: true
+  xy: 314, 7
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
